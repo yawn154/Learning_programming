@@ -10,7 +10,7 @@ This is simply my space where I'm updating my learning process. I will also writ
 
 ## Why am I learning?
 
-Durning one of my many career crises durning my years without an idea what I'm planning to do I've stumled upon the CAWEB master at the university of Strasbourg, since then, despite my initial degree I'm planning to pursue my studies this way.
+Durning one of my many career crises durning years without an idea what I'm planning to do I've stumled upon the CAWEB master at the university of Strasbourg, since then, despite my initial degree I'm planning to pursue my studies this way.
 
 # Who am I?
 
