@@ -1,0 +1,10 @@
+<H1> Notebook </H1>
+Heading H1-H6
+<br> break line
+<hr> horizontal line 
+<center></center> centers 
+<meta> description is shown by search engines 
+<ul></ul>
+<li></li>
+<ol></ol>
+<a href></a>
