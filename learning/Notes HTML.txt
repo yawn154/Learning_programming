@@ -8,3 +8,5 @@ Heading H1-H6
 <li></li>
 <ol></ol>
 <a href></a>
+<table><tr><td></td></tr></table>
+<thead></thead><tbody></tbody><tfoot></tfoot>
