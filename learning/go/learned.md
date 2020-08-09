@@ -29,3 +29,21 @@ Name := value
 
 * destinationType(variable)
 * use strconv package to convert to strings 
+
+# Primitive types
+
+* boolean
+
+
+## Numeric types
+
+###  Intreger 
+* int8/16/32/64 ; uint8/16/32
+* doesn't work between types
+* bit operations ( &, |; ^, &^)
+* bit shifting (<<, >>)
+
+## Floating point numbers 
+* (float32/64)
+* no % in operatinos 
+* no bit or bit shifting operations 
