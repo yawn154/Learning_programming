@@ -32,8 +32,11 @@ Name := value
 
 # Primitive types
 
-* boolean
+## Boolean
 
+* values are true or false 
+* not an alias for other types 
+* zero is false
 
 ## Numeric types
 
@@ -42,8 +45,32 @@ Name := value
 * doesn't work between types
 * bit operations ( &, |; ^, &^)
 * bit shifting (<<, >>)
+* arithmetic operations can be performed 
 
 ## Floating point numbers 
-* (float32/64)
+* float32/64
 * no % in operatinos 
 * no bit or bit shifting operations 
+
+## Complex numbers 
+
+* complex64/128
+* breaks down into floats 
+* real part and imaginary part (real/iamg)
+
+## Text 
+
+### Strings 
+* any UTF-8 character 
+* immutable
+* can be treated sort of as an array []
+* aliases for bytes 
+* can be added together
+* work as slices 
+* []byte converts to bytes 
+
+### Rune 
+* any UTF-32 character 
+* using '' 
+* type aliases for int32
+* special methods required to process 
