@@ -24,3 +24,8 @@ Name := value
 * Capitalize acronyms 
 * as short as reasonable 
 * "longer names for longer lives" 
+
+## Type conversions 
+
+* destinationType(variable)
+* use strconv package to convert to strings 
